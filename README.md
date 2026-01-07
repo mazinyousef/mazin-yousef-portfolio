@@ -1,1 +1,2 @@
-# mazin-yousef-portfolio
+# Hi,I'm Mazin yousef
+Data Analyst|Data driven decision making |Transforming insights into impact
